@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edmundyreyes
 - 👀 I’m interested in Cool coding Projects and challenging problems
-- 🌱 I’m currently learning Machine Learning! 
+- 🌱 I’m currently learning Genetic Algos! 
 - 💞️ I’m looking to collaborate on Anything that i could lend a hand!
 - 📫 How to reach me dm on twitter! @el2ctor
